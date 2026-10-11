@@ -1,4 +1,6 @@
 AgentOne: Real Estate Platform (Case Study)
+
+
 Live platform: https://agentone.in/
 Role: Junior Full Stack Developer at SCWEBS Info Solutions (Sep 2025 – Present)
 Scale: 50+ active property agents across 2 cities
